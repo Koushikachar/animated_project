@@ -6,7 +6,7 @@ import "locomotive-scroll/dist/locomotive-scroll.css";
 import { Navbar } from "./components/Navbar";
 import { HeroSection } from "./components/HeroSection";
 
-import Showcase from "./components/showcase";
+import Showcase from "./components/Showcase";
 import OurWork from "./components/OurWork";
 import Projects from "./components/Projects";
 import Services from "./components/Services";
