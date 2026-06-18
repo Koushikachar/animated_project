@@ -1,0 +1,140 @@
+https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/688995b78786bb6f8df3b6ef_1753282172963.avif
+
+https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/688995b78786bb6f8df3b6ef_1753282172963.avif
+
+const partners = [
+    {
+      img1: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a2d9ba590ae9b10c971d19_id8zsrKH_Y_1755499798838%201.avif",
+      img2: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a2d9d94efd22af34c8e835_image%204.avif" 
+    },
+    {
+      img1: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a2d9a9d965e48cb21a59d0_The_Cheesecake_Factory_(logo%2C_stacked)%202.png",
+      img2: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a2da04e8631e54be19c841_image%203.avif"
+    },
+    {
+      img1: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a2da114f772123c81d4b2f_image%202.avif",
+      img2: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a2d9c9a7681f6518c32c41_image%205.avif"
+    },
+    {
+      img1: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a2d95cbedc5aa90e57738f_Axel-Row-Horiz%201.avif",
+      img2: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a2d94dd39a1a3d6cba159b_LP-FOXRC-SKU-12-3-IMG-14-en-us-1627660864564%201.avif"
+    }
+  ];
+
+https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/68820f0ab20497c5cbd8c39f_BlueSushiBham-4%201.avif
+
+const images = [
+    "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/68820f0ab20497c5cbd8c39f_BlueSushiBham-4%201.avif",
+    "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/68a3dd192f1ff3ba63f1ad50_cocacolaamphitheater-1%206.avif",
+    "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689c2655200bb7ad08f7060f_CleanShot%202024-11-09%20at%2015.00.44.avif",
+    "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a92151af03744c150497cd_68846ad87aae78d41d075d31_Mountaintop3.avif",
+    "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689c26557ae981f7e2564ffa_CleanShot%202024-11-09%20at%2015.00.44-4.avif",
+    "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a92151af03744c150497de_68846aef020163d8a1e39d30_IMG_4225.avif",
+    "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689c26557112b0b4ad079ab3_CleanShot%202024-11-09%20at%2015.00.44-3.avif"
+  ];
+
+<div className="flex justify-between">
+                <img className="ml-4 mt-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+                <img className="mr-4 mt-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+              </div>
+              <div className="flex justify-between">
+                <img className="ml-4 mb-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+                <img className="mr-4 mb-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+              </div>
+
+https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a92151af03744c150497ca_68a3da3e40a19fe2294d4330_cocacolaamphitheater-24.avif
+
+<div className="flex justify-between">
+                <img className="ml-4 mt-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+                <img className="mr-4 mt-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+              </div>
+              <div className="flex justify-between">
+                <img className="ml-4 mb-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+                <img className="mr-4 mb-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+              </div>
+
+https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a92151af03744c150497d2_689018689b2a5c926c179068_GirlwithPearlFinishedPhotosDSCF4282.avif
+
+<div className="flex justify-between">
+                <img className="ml-4 mt-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+                <img className="mr-4 mt-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+              </div>
+              <div className="flex justify-between">
+                <img className="ml-4 mb-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+                <img className="mr-4 mb-4 h-2 w-2" src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689af5ca9e8c80ce95a0bd81_dot.avif" />
+              </div>
+
+https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68a92151af03744c150497d6_68846b56c0101f3e615d65bd_CleanShot%25202024-11-09%2520at%252015.00.44-2.avif
+
+https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68847944bf4b436c842da242_IMG_2674%201.avif
+
+https://cdn.prod.website-files.com/6881fafa34e37145092525b4/688479554933c2b4d5d8a363_TheCove2%201.avif
+
+https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68846aef020163d8a1e39d30_IMG_4225.avif
+
+
+const testimonials = [
+  {
+    img: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68884c2cdad1480c1dfc8fff_CleanShot%202024-11-09%20at%2015.00.44-1.avif",
+    text:
+      "Andrew and Shane turn rough ideas into extraordinary murals. They consistently exceed expectations.",
+    name: "Olivia (Harris) Jenks",
+    role: "Project Supervisor at North Italia",
+  },
+  {
+    img: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68884c18a4e367943f8fe039_CleanShot%202024-11-09%20at%2015.00.44.avif",
+    text:
+      "Mammoth Murals transformed our vision into a bold storefront that stops people in their tracks. The process was seamless and the execution was flawless.",
+    name: "Birmingham Tattoo Company",
+    role: "Client at Birmingham Tattoo Company",
+  },
+  {
+    img: "https://cdn.prod.website-files.com/6881fafa34e37145092525b4/68884c060f5c534d91b37245_AxelRow1%202.avif",
+    text:
+      "Andrew and the team brought Avondale’s story to life with precision and energy. Every detail was perfect and the project was completed on time.",
+    name: "Thornton Ratliff",
+    role: "Founder at SRV Housing Partners",
+  },
+];
+
+ <img
+              src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/68a71ab1974ffa7896cfa556_cropped-WebsiteFooter_logo-2.webp"
+              alt="Bham Now"
+              className="h-6 sm:h-8 w-auto object-contain invert"
+            />
+
+            <img
+              src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/68a718e341443ea60562c4c3_Header-Plain-e1470599322158.avif"
+              alt="News 19"
+              className="h-6 sm:h-7 w-auto object-contain brightness-0 invert"
+            />
+
+            <img
+              src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/68a810933e2695f00f7f559c_cropped-cbs204220logo20for20website20cbs42.com_1541089550527.png_60904154_ver1.0.webp"
+              alt="CBS 42"
+              className="h-6 sm:h-7 w-auto object-contain invert"
+            />
+
+<img 
+              src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/6888581071282636a166e99c_TheCove2%201.avif" 
+              alt="The Cove Mural on Building" 
+              className="w-full h-full object-cover rounded"
+            />
+
+ <img 
+                src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/688857ed7f22f3268e80576a_wmremove-transformed%20(2)%201.avif" 
+                alt="Artist working on mural" 
+                className="w-full h-auto shadow-xl rounded"
+              />
+
+<img
+            src="https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/688995b78786bb6f8df3b6ef_1753282172963.avif"
+            alt="profile"
+            className="w-5 h-5 sm:w-6 sm:h-6 rounded-sm"
+          />
+
+ { src: "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689c2655200bb7ad08f7060f_CleanShot%202024-11-09%20at%2015.00.44.avif", rotate: "-rotate-12" },
+          { src: "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689c265532bfdc3016bc5c8f_CleanShot%202024-11-09%20at%2015.00.44-2.avif", rotate: "-rotate-6" },
+          { src: "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689c26557112b0b4ad079ab3_CleanShot%202024-11-09%20at%2015.00.44-3.avif", rotate: "rotate-3" },
+          { src: "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689c26557ae981f7e2564ffa_CleanShot%202024-11-09%20at%2015.00.44-4.avif", rotate: "rotate-6" },
+          { src: "https://cdn.prod.website-files.com/6870db6428fa0046e4e9dc88/689c265532bfdc3016bc5c8f_CleanShot%202024-11-09%20at%2015.00.44-2.avif", rotate: "rotate-12" },
